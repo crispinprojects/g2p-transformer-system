@@ -1,0 +1,4 @@
+src/trainer/g2p_nn_trainer.cpp linguist-language=C++
+src/tester/g2p_nn_tester.cpp linguist-language=C++
+src/trainer/cmudict-0.7b linguist-detectable=false
+src/tester/g2p_model linguist-detectable=false
