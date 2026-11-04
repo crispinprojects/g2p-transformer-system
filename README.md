@@ -12,7 +12,7 @@ This is a minimal, CPU-optimised educational transformer project to explore how 
 
 ---
 
-## 🔍 Why Are Transformers So Important?
+## Why Are Transformers So Important?
 
 Transformers revolutionized machine learning by replacing sequential processing (like RNNs/LSTMs) with **parallelizable self-attention**. 
 
@@ -27,7 +27,7 @@ This project implements a **minimal, CPU-optimized educational transformer** to 
 
 ---
 
-## 🏗️ Transformer Architecture Explained
+## Transformer Architecture Explained
 
 ### What is a Token in G2P?
 
@@ -91,7 +91,7 @@ Instead of hand-crafting spelling-to-sound rules, the network automatically lear
 
 ---
 
-## ⚙️ Configuration Parameters (Mapped to Code)
+##  Configuration Parameters (Mapped to Code)
 
 | Parameter | Value | Purpose |
 |-----------|-------|---------|
@@ -160,7 +160,7 @@ With more data (~10k+ words), mini-batching, proper alignment (e.g., DTW or CTC)
 
 ---
 
-## 📂 Project Structure & Usage
+##  Project Structure & Usage
 
 ```
 g2p_project/
